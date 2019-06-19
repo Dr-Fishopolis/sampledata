@@ -1,0 +1,8 @@
+Quantiles,rate,Percentile,Female-Asian,Female-Black,Female-Other,Female-White,Male-All,Male-Asian,Male-Black,Male-Other,Male-White,fbase,wgtyp,PAG
+Min,15.39,0.04,0.1,0.49,0.5,0.4,,0.04,0.42,0.27,0.36,Male-Asian,Base,Professionals
+10th,17.55,0.09,0.13,0.78,0.55,0.6,,0.09,0.53,0.4,0.48,Male-Asian,Base,Professionals
+25th,28.85,0.27,0.4,0.93,0.8,0.84,,0.27,0.74,0.67,0.68,Male-Asian,Base,Professionals
+50th,50.96,0.51,0.9,0.99,0.95,0.96,,0.51,0.95,0.93,0.9,Male-Asian,Base,Professionals
+75th,60.2,0.76,0.92,0.99,0.95,0.98,,0.76,0.95,1,0.97,Male-Asian,Base,Professionals
+90th,67.16,0.91,0.95,0.99,0.95,0.99,,0.91,1,1,0.98,Male-Asian,Base,Professionals
+Max,120.19,1,1,1,1,1,,1,1,1,0.99,Male-Asian,Base,Professionals

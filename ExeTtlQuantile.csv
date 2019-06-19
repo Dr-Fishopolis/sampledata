@@ -1,0 +1,7 @@
+Quantiles,rate,Percentile,Female-Asian,Female-Black,Female-Other,Female-White,Male-All,Male-Asian,Male-Black,Male-Other,Male-White,fbase,wgtyp,PAG
+Min,85.29,0.11,,,,0.33,0,,,,,Male-All,Total,Executives
+25th,155.45,0.22,,,,0.5,0.11,,,,,Male-All,Total,Executives
+50th,161.43,0.44,,,,0.5,0.44,,,,,Male-All,Total,Executives
+75th,491.38,0.78,,,,1,0.67,,,,,Male-All,Total,Executives
+90th,514.14,0.89,,,,1,0.78,,,,,Male-All,Total,Executives
+Max,2291.24,1,,,,1,0.89,,,,,Male-All,Total,Executives
